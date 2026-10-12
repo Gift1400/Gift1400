@@ -89,11 +89,10 @@ I'm currently focused on strengthening my fundamentals, improving the quality of
 **DEVELOPMENT TOOLS**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, Visual Studio Code and IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" alt="Git, GitHub, Docker, Visual Studio Code and IntelliJ IDEA"/>
 </p>
 
 </div>
-
 ---
 
 ## `04` / FEATURED PROJECTS
