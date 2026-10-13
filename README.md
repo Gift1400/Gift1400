@@ -34,7 +34,7 @@ Building practical applications. Learning through code. Growing into a software 
 <tr>
 <td width="30%" valign="top">
 
-### `01` / PROFILE
+### `01`  PROFILE
 
 **Gift Mkhoma**
 
@@ -54,7 +54,7 @@ Open to opportunities to learn, contribute, and gain practical industry experien
 </td>
 <td width="70%" valign="top">
 
-## `02` / ABOUT ME
+## `02`  ABOUT ME
 
 I'm a final-year Information Technology student at CPUT with a strong interest in building software and understanding how applications work behind the scenes.
 
@@ -68,9 +68,8 @@ I'm currently focused on strengthening my fundamentals, improving the quality of
 </tr>
 </table>
 
----
 
-## `03` / TECHNOLOGY STACK
+## `03`  TECHNOLOGY STACK
 
 <div align="center">
 
@@ -83,19 +82,19 @@ I'm currently focused on strengthening my fundamentals, improving the quality of
 **BACKEND & DATABASES**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql" alt="Spring Boot and MySQL"/>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,supabase" alt="Spring Boot and MySQL"/>
 </p>
 
 **DEVELOPMENT TOOLS**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" alt="Git, GitHub, Docker, Visual Studio Code and IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,figma" alt="Git, GitHub, Docker, Visual Studio Code and IntelliJ IDEA"/>
 </p>
 
 </div>
----
 
-## `04` / FEATURED PROJECTS
+
+## `04`  FEATURED PROJECTS
 
 <p align="center">
   A selection of academic and personal work from my development journey.
@@ -170,9 +169,9 @@ A full-stack community store platform with a Java backend and a separate fronten
 </td>
 </tr>
 </table>
----
 
-## `05` / CURRENTLY LEARNING
+
+## `05`  CURRENTLY LEARNING
 
 <table>
 <tr>
@@ -201,9 +200,9 @@ A full-stack community store platform with a Java backend and a separate fronten
 </tr>
 </table>
 
----
 
-## `06` / GITHUB ACTIVITY
+
+## `06`  GITHUB ACTIVITY
 
 <div align="center">
 
@@ -221,9 +220,9 @@ A full-stack community store platform with a Java backend and a separate fronten
 
 </div>
 
----
 
-## `07` / PROFESSIONAL INTERESTS
+
+## `07`  PROFESSIONAL INTERESTS
 
 <div align="center">
 
@@ -235,9 +234,9 @@ A full-stack community store platform with a Java backend and a separate fronten
 
 </div>
 
----
 
-## `08` / LET'S CONNECT
+
+## `08`  LET'S CONNECT
 
 <div align="center">
 
@@ -252,7 +251,7 @@ I'm interested in opportunities to learn from other developers, contribute to me
   </a>
 </p>
 
----
+
 
 <sub>DESIGNED WITH PURPOSE · BUILT THROUGH CONSISTENT LEARNING</sub>
 
